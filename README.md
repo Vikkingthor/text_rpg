@@ -1,6 +1,6 @@
 Code Dungeon/Masmorra do código
 
-This is an a text RPG made in Python. I made this code for training and aprimorate my OOP skils and my logic. It's not a complex code, but we can understand every line and see how's the OOP works.
+This is an a text RPG made in Python. I make this code for training and aprimorate my OOP skils and my logic. It's not a complex code, but we can understand every line and see how's the OOP works.
 
 I study Phython since six months and i feel secure to write this project, it's simple and the idea is create a enemy and a hero. Inherit the stats for the main character to the enemy, and, make him fight until the death or until as main char runs away...
 
